@@ -1,4 +1,4 @@
 erlformat
 =========
 
-A erlang pretty printer
+An pretty printing library for erlang expressions

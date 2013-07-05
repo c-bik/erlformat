@@ -1,0 +1,12 @@
+{application, erlformat,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { erlformat_app, []}},
+  {env, []}
+ ]}.
